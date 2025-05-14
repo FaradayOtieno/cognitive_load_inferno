@@ -1,0 +1,7 @@
+pandas
+matplotlib
+textblob
+textstat
+wordcloud
+nltk
+NRC Emotion Lexicon : https://saifmohammad.com/WebDocs/NRC-Emotion-Lexicon.zip
